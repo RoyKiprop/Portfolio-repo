@@ -1,1 +1,1 @@
-A simple Portfolio built with HTML only.
+A simple Portfolio built with HTML and CSS only.
